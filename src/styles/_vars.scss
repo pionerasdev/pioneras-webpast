@@ -1,0 +1,30 @@
+// colors
+$colors: (
+    outer-space: #2A3233,
+    spring-wood: #F9F9F4,
+    tree-poppy: #F69220,
+    tundora: #4C4C4C,
+);
+
+// font size
+$fonts: (
+  font-14: 14px,
+  font-16: 16px,
+  font-18: 18px,
+  font-20: 20px,
+  font-22: 22px,
+);
+
+// font weight
+$font-weight: (
+  regular: 400,
+  bold: 700,
+);
+
+// breakpoints
+$breakpoints: (
+  extra-small: 560px,
+  small: 767px,
+  medium: 992px,
+  large: 1200px
+);
